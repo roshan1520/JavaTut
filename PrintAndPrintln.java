@@ -4,5 +4,10 @@ public class PrintAndPrintln {
         // this is the println statement.
         System.out.println();
         System.out.println("Cursor will move to the the next line and also escape to the new line");
+        System.out.println("hello");
+        System.out.println("world");
+        System.out.println("hello\nworld");
+        System.out.println("hello\tworld");
+        
     }
 }
